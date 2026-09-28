@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "sfsymbol-export",
+  "version": "1.0.0",
+  "description": "Export Apple SF Symbols as verified true-vector SVG via Apple's sfsymbols CLI, and look up symbol names, codepoints, availability and renames.",
+  "author": {
+    "name": "evilisn",
+    "email": "evilisnj@gmail.com"
+  },
+  "repository": "https://github.com/kasimok/sfsymbol-export",
+  "keywords": ["sf-symbols", "svg", "icons", "design", "apple"],
+  "skills": [
+    "./skills/sfsymbol-export"
+  ]
+}

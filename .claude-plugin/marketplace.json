@@ -1,0 +1,16 @@
+{
+  "name": "sfsymbol-export",
+  "description": "Single-plugin marketplace for the sfsymbol-export skill.",
+  "owner": {
+    "name": "evilisn",
+    "email": "evilisnj@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "sfsymbol-export",
+      "source": "./",
+      "description": "Export Apple SF Symbols as verified true-vector SVG via Apple's sfsymbols CLI.",
+      "version": "1.0.0"
+    }
+  ]
+}
